@@ -24,6 +24,7 @@
 <a href="https://github.com/prasxor">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasxor&theme=github_dark" alt="Prashant Kumar Sinha github stats" />
 </a>
+<br/>
 <a href="https://github.com/prasxor">
    <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prasxor&theme=github_dark" alt="Prashant Kumar Sinha github stats" />
     <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prasxor&theme=github_dark" alt="Prashant Kumar Sinha github stats" />
