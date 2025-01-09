@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://github.com/rohit-yadavv/Rohit-Yadavv/blob/main/banner.jpg"/>
+  <img src="https://github.com/prasxor/prasxor/blob/main/banner.jpg"/>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=prasxor&icon=0&color=0)](https://visitcount.itsvg.in)  
