@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://github.com/rohit-yadavv/Rohit-Yadavv/blob/main/banner.png"/>
+  <img src="https://github.com/rohit-yadavv/Rohit-Yadavv/blob/main/banner.jpg"/>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=prasxor&icon=0&color=0)](https://visitcount.itsvg.in)  
@@ -24,9 +24,7 @@
 <a href="https://github.com/prasxor">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasxor&theme=github_dark" alt="Prashant Kumar Sinha github stats" />
 </a>
-<p align="center"> 
-  <img src="https://github.com/rohit-yadavv/Rohit-Yadavv/blob/main/banner.png"/>
-</p>
+
 
 
 <p align="center">  
